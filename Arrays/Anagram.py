@@ -1,3 +1,4 @@
+#This is the code to xolve anagram
 string1=input("Enter the first string : ")
 string2=input('Enter the second string : ')
 x=string1.replace(" ","").lower()
